@@ -45,3 +45,32 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.cof
+Debug/dosator.obj
+*.str1
+
+*.sym1
+*.sym2
+*.sym3
+*.rom
+*.a
+*.o
+*.asm
+*.lst
+*.map
+*.atsln
+*.cbi
+*.cci
+*.cproj
+*.c~
+*.fct
+*.prj
+*.prj~
+*.txt
+*.hex
+*.obj
+*.hci
+*.h~
+*.obj
+*.ol
+*.al
